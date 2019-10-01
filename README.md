@@ -1,6 +1,7 @@
 # cross-view-image-matching
 
 [[Paper, ICCV 2019](https://www.crcv.ucf.edu/wp-content/uploads/2019/08/Publications_Bridging-the-Domain-Gap-for-Ground-to-Aerial-Image-Matching.pdf)]
+[[Presentation Video](https://www.youtube.com/watch?v=gmAhQXCYCEQ)]
 
 
 ## Abstract
