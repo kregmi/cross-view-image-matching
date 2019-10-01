@@ -1,0 +1,7 @@
+@article{regmi2019bridging,
+  title={Bridging the Domain Gap for Ground-to-Aerial Image Matching},
+  author={Regmi, Krishna and Shah, Mubarak},
+  journal={arXiv preprint arXiv:1904.11045},
+  year={2019}
+}
+
