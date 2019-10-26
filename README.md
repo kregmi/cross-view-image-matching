@@ -3,6 +3,9 @@
 [[Paper, ICCV 2019](https://www.crcv.ucf.edu/wp-content/uploads/2019/08/Publications_Bridging-the-Domain-Gap-for-Ground-to-Aerial-Image-Matching.pdf)]
 [[Presentation Video](https://www.youtube.com/watch?v=gmAhQXCYCEQ)]
 
+## Poster
+![poster](resources/iccv2019-poster.jpg)
+
 
 ## Abstract
 The visual entities in cross-view (e.g. ground and aerial)images exhibit drastic domain changes due to the differences in viewpoints each set of images is captured from. Existing state-of-the-art methods address the problem by learning view-invariant image descriptors. We propose a novel method for solving this task by exploiting the generative powers of conditional GANs to synthesize an aerial representation of a ground-level panorama query and use it to minimize the domain gap between the two views. The synthesized image being from the same view as the reference (target) image, helps the network to preserve important cues in aerial images following our Joint Feature Learning approach. We fuse the complementary features from a synthesized aerial image with the original ground-level panorama features to obtain a robust query representation. In addition, we employ multi-scale feature aggregation in order to preserve image representations at different scales useful for solving this complex task. Experimental results show that our proposed approach performs significantly better than the state-of-the-art methods on the challenging CVUSA dataset in terms of top-1 and top-1% retrieval accuracies. Furthermore, we evaluate the generalization of the proposed method for urban landscapes on our newly collected cross-view localization dataset with geo-reference information.
@@ -51,7 +54,6 @@ Pretrained models can be downloaded here.
 [[joint_feature_learning](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/EjoZLQyO4sNIhNqSmXRQKoQBI9dVEfUye6kTkFa-g2XnIw?e=D841Er)]
 
 [[feature_fusion](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/EsscMPkPKCVHk7EkJg3gjPgBLSWtCi33KVciT1d3YT4JLw?e=PmuCIz)]
-
 
 
 ## Citation
