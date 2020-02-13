@@ -55,11 +55,22 @@ Pretrained models can be downloaded here.
 
 [[feature_fusion](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/EsscMPkPKCVHk7EkJg3gjPgBLSWtCi33KVciT1d3YT4JLw?e=PmuCIz)]
 
+## Evaluation
+
+For ease of comparison of our method by future researchers on CVUSA and CVACT datasets, we provide the following:
+
+Feature files for test set of CVUSA:[[CVUSA Test Features]](https://drive.google.com/open?id=1Omu4D0wBGuo0ie0T3QXbiByEy6q-AG9p)
+
+We also conducted experiments on [[CVACT Dataset]](https://github.com/Liumouliu/OriCNN) and provide the feature files here: [[CVACT Test Features]](https://drive.google.com/open?id=1_z8BLdnTdEror-aqGDpG6gMhTt5x1XcS)
+
 
 ## Citation
 If you find our works useful for your research, please cite the following papers: 
+
 - Bridging the Domain Gap for Ground-to-Aerial Image Matching, ICCV 2019 [pdf](https://arxiv.org/pdf/1904.11045.pdf), [bibtex](https://github.com/kregmi/cross-view-image-matching/tree/master/resources/bibtex_iccv2019.txt)
+
 - Cross-View Image Synthesis Using Conditional GANs, CVPR 2018 [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Regmi_Cross-View_Image_Synthesis_CVPR_2018_paper.pdf), [bibtex](https://github.com/kregmi/cross-view-image-synthesis/tree/master/resources/bibtex_cvpr.txt)
+
 - Cross-view image synthesis using geometry-guided conditional GANs, CVIU 2019 [pdf](https://arxiv.org/pdf/1808.05469.pdf), [bibtex](https://github.com/kregmi/cross-view-image-synthesis/tree/master/resources/bibtex_cviu.txt)
 
 ## Questions
