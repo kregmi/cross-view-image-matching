@@ -41,7 +41,7 @@ This is implemented in Tensorflow.
 ### Datasets
 The original datasets are available here:
 1. [CVUSA](http://cs.uky.edu/~jacobs/datasets/cvusa/)
-2. [UCF-OP](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/EsdF16TLfkNNg2BSWXZHtoUBV1BUnIalLNX2nCiEZXVF2g?e=c6KHdU)
+2. [UCF-OP](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/EticvKYa0zFEq4HDMy7MwcgBkXWiaM6hp2i_BGswWvBY4Q?e=eTmV72) Please feel free to contact me via email if the link doesn't work.
 
 
 ## Models
