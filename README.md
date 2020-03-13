@@ -51,7 +51,7 @@ Pretrained models can be downloaded here.
 
 [[two-stream](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/Eog9kTSbhJBIrTqByg5MzTAB5Jb8aPKljLB8DSnwTUw3Rw?e=i33ap2)]   
 
-[[joint_feature_learning](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/EjoZLQyO4sNIhNqSmXRQKoQBI9dVEfUye6kTkFa-g2XnIw?e=D841Er)]
+[[joint_feature_learning](https://drive.google.com/open?id=1u7gD7CI-yZVEZIDIqziyuIIIFEuP2RKl)]
 
 [[feature_fusion](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/EsscMPkPKCVHk7EkJg3gjPgBLSWtCi33KVciT1d3YT4JLw?e=PmuCIz)]
 
