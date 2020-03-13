@@ -45,15 +45,12 @@ The original datasets are available here:
 
 
 ## Models
-Pretrained models can be downloaded here.
+### CVUSA Dataset
 
-[[xview-synthesis](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/ElgHVhSrxEBCiu1Kd1aKzG0Be5ZaTZQ4UAejJ3gEWxFkpg?e=4BXvzz)]  
+Pretrained models  can be downloaded individually here: [[xview-synthesis](https://drive.google.com/open?id=1V5qIsOqiGnBKbjG3S9bI39_Yt-tBZgRI)]  [[two-stream](https://drive.google.com/open?id=1bsTbNINVlzc2u_IM9sSkRjKevqBnPWnY)]   [[joint_feature_learning](https://drive.google.com/open?id=1u7gD7CI-yZVEZIDIqziyuIIIFEuP2RKl)]   [[feature_fusion](https://drive.google.com/open?id=13PL-sEevFsmvFC-luAevhRWsrTTqFy0G)]
 
-[[two-stream](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/Eog9kTSbhJBIrTqByg5MzTAB5Jb8aPKljLB8DSnwTUw3Rw?e=i33ap2)]   
+All these models can be downloaded at once using this link (~ 4.2 GB). [[CVUSA Pretrained Models](https://drive.google.com/open?id=1rl4lRHR65Z0QNMKJn81X5O__Ea_DeNoS)]
 
-[[joint_feature_learning](https://drive.google.com/open?id=1u7gD7CI-yZVEZIDIqziyuIIIFEuP2RKl)]
-
-[[feature_fusion](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/kregmi_knights_ucf_edu/EsscMPkPKCVHk7EkJg3gjPgBLSWtCi33KVciT1d3YT4JLw?e=PmuCIz)]
 
 ## Evaluation
 
